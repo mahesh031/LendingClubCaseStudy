@@ -28,12 +28,10 @@ Case study focuses on the following segments.
   - Bivariate analysis 
 
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
+## EDA Analysis Report
+``` 
+The lending-club-case-study.pdf file contains the detailed analysis ad the report.
+``` 
 
 
 ## Contributors
